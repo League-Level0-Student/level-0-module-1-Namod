@@ -1,0 +1,26 @@
+size(500,500);
+fill(#E3A962);
+ellipse(240,240,300,300);
+
+PImage basketball  = loadImage("basketball.gif");
+basketball.resize(10,10);
+image(basketball,300,300);
+image(basketball,300,250);
+image(basketball,300,200);
+image(basketball,300,150);
+image(basketball,250,350);
+image(basketball,250,300);
+image(basketball,250,250);
+image(basketball,250,200);
+image(basketball,250,150);
+image(basketball,250,100);
+image(basketball,200,350);
+image(basketball,200,300);
+image(basketball,200,250);
+image(basketball,200,200);
+image(basketball,200,150);
+image(basketball,200,100);
+image(basketball,150,300);
+image(basketball,150,250);
+image(basketball,150,200);
+image(basketball,150,150);
